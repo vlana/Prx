@@ -25,7 +25,7 @@ public class Main
 		
 		new Main().call("Father");
 		
-		new Main().call("ana are mere tata ");
+		new Main().call("ana are mere npi ");
 		
 	}
 }
