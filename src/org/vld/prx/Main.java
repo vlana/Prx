@@ -22,5 +22,8 @@ public class Main
 	{
 		System.out.println(12345 + 5432l);
 		new Main().call("mama");
+		
+		new Main().call("Father");
+		
 	}
 }
