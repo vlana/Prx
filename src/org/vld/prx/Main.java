@@ -25,5 +25,7 @@ public class Main
 		
 		new Main().call("Father");
 		
+		new Main().call("ana");
+		
 	}
 }
